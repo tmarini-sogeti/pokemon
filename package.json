@@ -1,0 +1,23 @@
+{
+  "name": "pokemon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmarini-sogeti/pokemon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmarini-sogeti/pokemon/issues"
+  },
+  "homepage": "https://github.com/tmarini-sogeti/pokemon#readme",
+  "devDependencies": {
+    "electron": "^38.2.1"
+  }
+}
