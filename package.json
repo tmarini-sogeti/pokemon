@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/tmarini-sogeti/pokemon#readme",
   "devDependencies": {
-    "electron": "^38.2.1"
+    "electron": "^39.1.1"
   }
 }
